@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on georepo</title>
+    <link>davidroettger.github.io/tags/</link>
+    <description>Recent content in Tags on georepo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="davidroettger.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>georepo</title>
+      <link>davidroettger.github.io/tags/georepo/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>davidroettger.github.io/tags/georepo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
